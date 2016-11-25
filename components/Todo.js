@@ -1,3 +1,8 @@
+/**
+  Author:"NguyenBach228"
+  20161123
+*/
+
 import React, { PropTypes } from 'react'
 
 const Todo = ({ onClick, completed, text}) => (

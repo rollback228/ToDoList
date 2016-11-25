@@ -3,10 +3,6 @@
   20161123
 */
 
-/*
- * action types
- */
-
 import React, { PropTypes} from 'react'
 
 const Link = ({ active, children, onClick }) => {
